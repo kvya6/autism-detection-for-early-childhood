@@ -26,11 +26,11 @@
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kvya6/autism-detection-for-early-childhood/main/homepage.jpg" width="200" />
-  <img src="https://raw.githubusercontent.com/kvya6/autism-detection-for-early-childhood/main/photoanalysis.jpg" width="200" />
-  <img src="https://raw.githubusercontent.com/kvya6/autism-detection-for-early-childhood/main/voiceanalysis.jpg" width="200" />
-  <img src="https://raw.githubusercontent.com/kvya6/autism-detection-for-early-childhood/main/chatbot" width="200" />
-  <img src="https://raw.githubusercontent.com/kvya6/autism-detection-for-early-childhood/main/gamedashboard" width="200" />
+  <img src="https://raw.githubusercontent.com/kvya6/autism-detection-for-early-childhood/main/homepage.jpg" width="1000" />
+  <img src="https://raw.githubusercontent.com/kvya6/autism-detection-for-early-childhood/main/photoanalysis.jpg" width="1000" />
+  <img src="https://raw.githubusercontent.com/kvya6/autism-detection-for-early-childhood/main/voiceanalysis.jpg" width="1000" />
+  <img src="https://raw.githubusercontent.com/kvya6/autism-detection-for-early-childhood/main/chatbot.jpg" width="1000" />
+  <img src="https://raw.githubusercontent.com/kvya6/autism-detection-for-early-childhood/main/gamedashboard.jpg" width="1000" />
 </p>
 
 
