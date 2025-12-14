@@ -28,8 +28,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/kvya6/autism-detection-for-early-childhood/main/homepage.jpg" width="200" />
   <img src="https://raw.githubusercontent.com/kvya6/autism-detection-for-early-childhood/main/photoanalysis.jpg" width="200" />
-  <img src="https://raw.githubusercontent.com/kvya6/autism-detection-for-early-childhood/main/screenshots/voiceanalyais.jpg" width="200" />
-  <img src="https://raw.githubusercontent.com/kvya6/autism-detection-for-early-childhood/main/screenshots/chatbot" width="200" />
+  <img src="https://raw.githubusercontent.com/kvya6/autism-detection-for-early-childhood/main/voiceanalysis.jpg" width="200" />
+  <img src="https://raw.githubusercontent.com/kvya6/autism-detection-for-early-childhood/main/chatbot" width="200" />
+  <img src="https://raw.githubusercontent.com/kvya6/autism-detection-for-early-childhood/main/gamedashboard" width="200" />
 </p>
 
 
