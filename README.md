@@ -42,11 +42,21 @@
 - **Audio Processing**: Pydub with FFmpeg  
 - **Database**: LocalStorage (for user accounts and scores)  
 
-### Architecture Diagram
 
 
 
-Project Structure
+###🚀 Usage
+
+Signup/Login as a parent/guardian
+Navigate Dashboard to choose:
+Upload Photo for AI analysis
+Upload Voice for audio-based prediction
+Quiz for questionnaire-based assessment
+View Prediction Results
+Access Feedback & Chatbot
+
+
+##Project Structure
 Autism-Detection-Project/
 ├─ backend/
 │  ├─ audio_api.py           # Flask server for audio prediction
