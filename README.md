@@ -26,11 +26,12 @@
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="screenshots/dashboard.png" width="200" />
-  <img src="screenshots/upload-voice.png" width="200" />
-  <img src="screenshots/upload-photo.png" width="200" />
-  <img src="screenshots/quiz.png" width="200" />
+  <img src="https://raw.githubusercontent.com/kvya6/autism-detection-for-early-childhood/main/homepage.jpg" width="200" />
+  <img src="https://raw.githubusercontent.com/kvya6/autism-detection-for-early-childhood/main/photoanalysis.jpg" width="200" />
+  <img src="https://raw.githubusercontent.com/kvya6/autism-detection-for-early-childhood/main/screenshots/voiceanalyais.jpg" width="200" />
+  <img src="https://raw.githubusercontent.com/kvya6/autism-detection-for-early-childhood/main/screenshots/chatbot" width="200" />
 </p>
+
 
 ---
 
