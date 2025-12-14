@@ -1,0 +1,59 @@
+import React, { useState } from "react";
+import axios from "axios";
+
+export default function UploadPhoto() {
+  const [file, setFile] = useState(null);
+  const [result, setResult] = useState("");
+  const [loading, setLoading] = useState(false);
+
+  const handleUpload = async () => {
+    if (!file) {
+      alert("Please select an image first!");
+      return;
+    }
+
+    const formData = new FormData();
+    formData.append("photo", file);
+
+    try {
+      setLoading(true);
+      const res = await axios.post("http://localhost:5000/predict", formData, {
+        headers: { "Content-Type": "multipart/form-data" },
+      });
+
+      setResult(res.data.prediction);
+    } catch (err) {
+      console.error(err);
+      alert("Photo analysis failed. Try a clear image.");
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  return (
+    <div className="p-6 bg-white rounded-xl shadow-lg w-[400px]">
+      <h2 className="text-xl font-bold mb-4">Upload Child Photo</h2>
+
+      <input
+        type="file"
+        accept="image/*"
+        onChange={(e) => setFile(e.target.files[0])}
+        className="mb-4"
+      />
+
+      <button
+        onClick={handleUpload}
+        className="bg-blue-500 text-white px-4 py-2 rounded-lg"
+      >
+        {loading ? "Analyzing..." : "Upload & Analyze"}
+      </button>
+
+      {result && (
+        <p className="mt-4 text-lg">
+          ✅ Prediction: <span className="font-bold">{result}</span>
+        </p>
+      )}
+    </div>
+  );
+}
+
