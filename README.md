@@ -1,4 +1,4 @@
-# 🧩 Autism Detection for Early Childhood
+# 🧩AutismScope: Multi-Modal Early Childhood Autism Screening
 
 [![Platform](https://img.shields.io/badge/Platform-Web%20%26%20Desktop-green.svg)]()
 [![Frontend](https://img.shields.io/badge/Frontend-React-blue.svg)](https://react.dev/)
